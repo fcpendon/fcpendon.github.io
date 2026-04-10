@@ -48,13 +48,12 @@ const experiences = [
     location: 'Mandaluyong City, Metro Manila',
     period: 'Jun 2023 - Apr 2026',
     highlights: [
-      'Assigned to the US-based Product Development team that delivers enhancements, new features, and bug fixes for a proprietary web application (PICTraq)',
+      'Worked under the US-based Product Development team delivering enhancements, new features, and bug fixes for a proprietary web application (PICTraq)',
       'Contributed to the development of an in-house PHP MVC framework, including designing a Laravel-inspired routing system that improved development efficiency',
-      'Supported system modernization by migrating vanilla PHP code to Laravel and refactoring legacy Python code to MVC structure',
-      'Developed Python-based ETL scripts to process large-scale pig data pipelines',
-      'Implemented i18n on Python-based report generation pipelines to support translation on multiple languages',
+      'Supported system modernization by migrating vanilla PHP code to Laravel and refactoring legacy Python code to follow MVC architecture',
+      'Maintained 20+ Python ETL scripts to process large-scale pig data pipelines',
+      'Implemented i18n on report generation pipelines to support translation to multiple languages',
       'Created automated test scripts using PHPUnit, Pytest and Unittest, targeting high code coverage and improved code reliability',
-      'Maintained Oracle views, functions, packages, and stored procedures for reporting and analytics'
     ]
   },
   {
@@ -75,13 +74,11 @@ const experiences = [
     location: 'Makati City, Metro Manila',
     period: 'Oct 2017 - Sep 2021',
     highlights: [
-      'Led a small team of developers while serving as Scrum Master for multiple initiatives, such as Car4Cash and Scorecard',
-      'Designed and developed an internal web application supporting business process automation, advanced operations, and batch processing',
-      'Administered and maintained BPMS servers and databases, providing development and database support and troubleshooting',
-      'Built REST and SOAP APIs that perform ETL services between external and internal systems',
-      'Maintained PHP and Python scripts for data warehousing, extraction, and reporting',
-      'Collaborated with HR in screening and evaluating technical candidates for developer roles',
-      'Directly coordinated with business stakeholders to define project scope, deliverables, and timelines'
+      'Developed an internal Laravel application enabling business process automation, advanced operations, and batch processing for various banking workflows',
+      'Led a small team of developers in taking ownership of the BPMS application (ProcessMaker), providing development, support, and troubleshooting',
+      'Built REST and SOAP APIs that performed ETL services between external and internal systems',
+      'Maintained 50+ Python scripts as cron jobs for data warehousing, extraction, and reporting',
+      'Collaborated with HR in screening and evaluating technical candidates for developer roles'
     ]
   },
   {
@@ -90,8 +87,7 @@ const experiences = [
     location: 'Taguig City, Metro Manila',
     period: 'Aug 2016 - Sep 2017',
     highlights: [
-      'Managed technical deliverables for multiple projects, such as online portal enhancements for DSL subscribers, and cloud-based audit document repository using Amazon S3',
-      'Spearheaded a project for calendar-based bandwidth provisioning for corporate leased lines using SDN',
+      'Managed technical deliverables for multiple projects, such as portal enhancements for DSL subscribers, Amazon S3-based audit document repository, and calendar-based bandwidth provisioning for corporate leased lines',
       'Produced technical documentation, requirements specifications, and test plans',
       'Oversaw UAT and SAT processes, including test execution monitoring and result analysis'
     ]
@@ -102,11 +98,9 @@ const experiences = [
     location: 'Taguig City, Metro Manila',
     period: 'Aug 2013 - Apr 2016',
     highlights: [
-      'Developed server-side features for a globally released mobile game',
+      'Developed server-side features for a globally released mobile game using a proprietary PHP MVC framework',
       'Implemented an auto-play system supporting quest progression, random encounters, PvP battles, item usage, and loot mechanics',
-      'Designed and maintained APIs using a proprietary PHP MVC framework',
       'Investigated and resolved issues reported by QA and frontend teams via Redmine',
-      'Supported DevOps and live operations for international and Japanese game versions'
     ]
   }
 ]
