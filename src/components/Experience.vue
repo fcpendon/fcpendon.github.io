@@ -87,7 +87,7 @@ const experiences = [
     location: 'Taguig City, Metro Manila',
     period: 'Aug 2016 - Sep 2017',
     highlights: [
-      'Managed technical deliverables for multiple projects, such as portal enhancements for DSL subscribers, Amazon S3-based audit document repository, and calendar-based bandwidth provisioning for corporate leased lines',
+      'Managed technical deliverables for multiple projects, such as portal enhancements for DSL subscribers, Amazon S3-based repository for audit documents, and calendar-based bandwidth provisioning for corporate leased lines',
       'Produced technical documentation, requirements specifications, and test plans',
       'Oversaw UAT and SAT processes, including test execution monitoring and result analysis'
     ]
