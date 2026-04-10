@@ -15,18 +15,13 @@
       <div class="mt-16 pt-16 border-t border-primary-200">
         <h3 class="text-2xl font-bold text-primary-900 mb-8">Education</h3>
         <div class="card">
-          <div class="flex gap-4">
-            <div class="flex-shrink-0">
-              <div class="flex h-12 w-12 items-center justify-center rounded-lg bg-accent-100">
-                <span class="text-xl">🎓</span>
-              </div>
-            </div>
-            <div class="flex-grow">
+          <div class="flex flex-col md:flex-row md:items-start md:justify-between gap-4">
+            <div>
               <h4 class="text-xl font-bold text-primary-900">Bachelor of Science in Computer Science</h4>
               <p class="text-accent-600 font-semibold">University of the Philippines Los Baños</p>
               <p class="text-gray-600 text-sm mt-1">Los Baños, Laguna</p>
             </div>
-            <div>
+            <div class="md:text-right">
               <span class="inline-block px-4 py-2 bg-accent-50 text-accent-600 rounded-full font-semibold text-sm whitespace-nowrap">
                 2006 - 2013
               </span>
